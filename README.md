@@ -1,2 +1,2 @@
 # Bus-Mall
-it is a project to help a friend
+My first project in my new domain - creating this bus catalogue that is eco friendly!
