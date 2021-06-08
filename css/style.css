@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+
+h2{
+    text-align: center;
+    color: rgb(3, 19, 11);
+}
+body{
+    background-color: #74a88b;
+}
+
+
+
+ /* #sec-one{
+    float: left;
+    width: 50%;
+}   
+#sec-two{
+    float: left;
+    width: 50%;
+}
+
+#sec-three{
+    float: left;
+    width : 50%
+    
+img{
+    display: inline-block;
+    width: 50%;
+    height: 10px;
+}
+ul{
+    width: 30%;
+    background-color: rgb(230, 228, 223);
+    height: 10%;
+}
+
+li{
+    font-size: 30px;
+    font-weight: bold;
+    list-style: none;
+    color: rgb(12, 27, 56);
+}  */
+
+
+img{
+
+    width: 100px;
+     }
